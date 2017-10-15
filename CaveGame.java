@@ -191,8 +191,9 @@ public class CaveGame {
             }
         }
 
-       //TESTING BELOW THIS POINT
-        System.out.println();
+        //TESTING BELOW THIS POINT
+            
+        /*System.out.println();
         System.out.println(caves);
         CaveSystem cs = new CaveSystem(caves);
         int[][] caveSys = cs.returnCaves();
@@ -245,9 +246,9 @@ public class CaveGame {
            }
            System.out.println();
            System.out.println("Enter 'm'");
-           s = input.nextLine();
-
-
+           s = input.nextLine();*/
+           
+        
     }
     
 }
